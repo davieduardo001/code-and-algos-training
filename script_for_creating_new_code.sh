@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Author: Dave
-#
+# test  
 # What it does?
 #     verify if the date of today existis
 #     if not it'll create the files for this day,
